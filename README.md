@@ -27,7 +27,7 @@ Das Programm:
 4. zeigt die Grafik mit matplotlib an 
 
 # Beispielabbildung
-![Leistungskurve](power_curve.png)
+![Leistungskurve](figures/power_curve.png)
 
 # Verwendete Bibliotheken
 numpy
