@@ -1,5 +1,4 @@
 import numpy as np
-from sort import bubble_sort
 import matplotlib.pyplot as plt
 
 def bubble_sort(arr):
@@ -45,3 +44,16 @@ if __name__ == "__main__":
     print(sorted_power_W[::-1])
   
 
+
+    # Grafik erstellen
+    plt.plot(sorted_power_W[::-1])
+
+    # Titel und Achsen
+    plt.title("Power Curve")
+    plt.xlabel("Index")
+    plt.ylabel("Power (W)")
+
+    # Grafik anzeigen
+    plt.show()
+    plt.savefig("power_curve.png")
+    
