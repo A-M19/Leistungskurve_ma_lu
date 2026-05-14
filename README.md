@@ -14,7 +14,7 @@ PDM
 1. bash
 2. pdm run python power_curve.py, um Daten auszuwerten und Grafik zu erstellen
 
-#Ergebnis
+# Ergebnis
 Die Grafik wird im Ordner "figures" gespeichert.
 
 # Verwendung
