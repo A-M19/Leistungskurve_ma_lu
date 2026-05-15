@@ -1,7 +1,7 @@
 # Leistungskurve_ma_lu
 Dieses Projekt liest Leistungsdaten aus einer CSV-Datei ein, sortiert die Werte mit einem eigenen Bubble-Sort-Algorithmus und erstellt eine Power-Curve-Grafik.
 
-#Vorraussetzungen
+# Voraussetzungen
 Python 3.X
 PDM
 
